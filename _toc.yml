@@ -1,0 +1,7 @@
+format: jb-book
+root: home
+chapters:
+- file: posts/BankLendingVsCapitalMarkets/BankLendingVsCapitalMarkets.ipynb
+  title: The Changing Nature of Cross-Border Credit - Bank Lending vs. Capital Markets
+- file: posts/U.S.Assets.DuringGFC/U.S.Assets.During.Crisis.ipynb
+  title: The U.S. Dollar during the Global Financial Crisis 2007-08 - Global Safe Asset?

@@ -1,0 +1,4 @@
+venv
+.jupyter
+._DS_STORE
+_build/
