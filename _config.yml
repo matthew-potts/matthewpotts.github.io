@@ -1,0 +1,34 @@
+title: The Evolution of Cross-Border Funding - View from the BIS Data API and getBISy
+subtitle: Bank Lending vs Capital Markets
+author: Matthew Potts
+logo: logo.png
+
+execute:
+  execute_notebooks: off
+
+latex:
+  latex_documents:
+    targetname: book.tex
+
+bibtex_bibfiles:
+  - references.bib
+
+repository:
+  url: https://github.com/matthew-potts/matthewpotts.github.io
+  path_to_book: docs
+  branch: master
+
+html:
+  use_repository_button: true
+  use_hide_code_button: true
+  hide_code_all: true
+
+launch_buttons:
+  colab_url: "" 
+hide_code: true
+
+sphinx:
+  config:
+    copyright: "2025"
+    html_context:
+      default_mode: light
