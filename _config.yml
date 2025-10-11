@@ -19,9 +19,13 @@ repository:
   branch: master
 
 html:
-  use_repository_button: true
+  favicon: logo.png
+  use_repository_button: false
   use_hide_code_button: true
   hide_code_all: true
+  theme:
+    use_sidenotes: false
+    toggle_switch: false
 
 launch_buttons:
   colab_url: "" 
@@ -29,6 +33,7 @@ hide_code: true
 
 sphinx:
   config:
+    html_theme: "pydata_sphinx_theme"
     copyright: "2025"
     html_context:
       default_mode: light

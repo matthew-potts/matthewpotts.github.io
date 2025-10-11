@@ -1,4 +1,3 @@
-# Welcome
 
 Welcome to Crossborder Code, a project by Matthew Potts. 
 
