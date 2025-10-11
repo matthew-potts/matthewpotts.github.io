@@ -1,3 +1,13 @@
 .markdown-body {
     font-size: 11px;
 }
+
+.pdf-embed iframe {
+  border: 1px solid #e6e6e6;
+  border-radius: 4px;
+  background: #fff;
+}
+
+@media (max-width: 700px) {
+  .pdf-embed iframe { height: 500px; }
+}
